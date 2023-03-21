@@ -1,4 +1,4 @@
 # Сайт для проекта Rust Labs
-# Design - union-dev.art
+# [Design](https://union-dev.art)
 # FrontEnd - mahoneybtw
 # BackEnd - ParkerDev
